@@ -1,0 +1,17 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
+
+body{
+	background-color: #000000 important; 
+}
+
+.panel-body {
+    padding: 15px;
+    background-color: beige;
+}
+
